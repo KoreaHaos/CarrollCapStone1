@@ -1,0 +1,46 @@
+https://www.google.com/search?q=Camboard&oq=Camboard&aqs=chrome..69i57&sourceid=chrome&es_sm=0&ie=UTF-8
+http://pmdtec.com/products_services/reference_design_pico_pico_s.php
+http://pmdtec.com/html/pdf/order_CamBoard_pico_s.pdf
+https://www.google.com/#q=msp430+camera
+http://www.rpg.fi/desaster/blog/2012/10/20/ov7670-fifo-msp430-launchpad/
+https://e2e.ti.com/support/microcontrollers/msp430/f/166/t/157544
+
+List of ideas:
+
+1. Navigation Aid using audio.
+2. EEG system.
+3. Bluetooth connected keyboard for passwords.
+4. Equipement list with detailed specs.
+5. Git based teaching.
+6. Git based framework for student portfolios.
+7. Crowd sourced WiFi transmitter cataloging.
+8. Social app for "dance party."
+9. video streaming app so i can watch my fish and show him to other people.
+10. Automated fish feeding machine.
+11. A phone based location transmitter on the Ewha bus.
+12. A website promoting study-abroad at Ewha and/or Milwaukee.
+13. A mobile app for to encourage forign exchange students to explore the campus.
+14. A website to help forign students aclimate quickly so they can get to studying.
+15. A suite of mobile apps.
+16. A toolset for working on computers that are not in a user's first langauge.
+17. A cloud based, gamified, IDE system for teaching, assignments, quizes, student assesment, and data collecting that leverages VM, and version control in new and novel ways.
+18. An English/Korean translator plugin API hook for Kakao.
+19. Some way to make Kakao less useless and distracting to students.
+20. A automated image translation tool using google image translation.
+21. A way to connect Navar and Google...
+22. A mobile app that notifies you of upcoming subway station(s) where you need to get off and/or on.
+23. A mobile app that signals through audio the current status of trains, travel time to appointments, cross-walk timing and any other time sensitive type thing.
+24. A mechanical device that spins a phone while at the same time sending bluetooth signal to activate the camera. Produces spehre photos quickly, perfectly, and with minimal user fuss.
+25. Anything related to memory retention, note-taking, brainstorming, ....
+26 A simple OCR system for students to scan there notes and have them digitizied into searchable, shareable, archivable, ... files.
+27. A set of devices that you can carry in a bag designed for them that allows an operator to plug a cable into a computer and get up to speed asap. Uses wireless charging and USB hubs.
+28. A test system for measuring temperature, pressure, jostling, and other factors encountered during mailing of a package from one place to another. End goal is to determine what is needed to ship through typical post systems live animals, namely my fish.
+29 His name is Vinny. He is living up to the name.
+30 a "radar" that is connected to the phone and gives audio signal of the sauronding arrea.
+31 a phone stiched into my hood that allow me to see ahead of me when the hood is in front of my eyes.
+32 mess around with google cardboard. Try and improve the camera system so it is more accessible to the peoples.
+33. I'd like to experiment with the lecture equipment in the class room.
+34. Creativity managment app.
+35. Script built, task-specific, disposible vm web-app.
+
+

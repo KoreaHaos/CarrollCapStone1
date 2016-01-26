@@ -1,0 +1,75 @@
+# CSC450 - Spring 2016 Syllabus
+	
+Course Number:	CSC450a
+Course Title:	Projects/Capstone for CSC/IT Majors
+Number of Credits:	4 credits
+Day/Time:	Wed 4:00-5:50 in TC13
+Prerequisites:	Completion of ALL required CSC prefix coursework and/or consent of instructor.
+Contact Info:	Mike Konemann – Charles House 202 – (262)-524-7162 – mgk@carrollu.edu
+Office Hours:	M 2:30-3:30, T 12:00-1:30, R 12:00-1:30, after class, or by appt.
+Course Description (from catalog):	This course requires students to work on a real-world project, and is a very demanding course open only to majors in their senior year. The course allows students to select, design, code, document and formally present a substantial project of their own choosing.
+Textbook:	none
+
+Course objectives/content:	CSC450/451 should be taken only after students have completed all course requirements for the major, and is open only to seniors.  It is designed for students to apply what they have learned in their course work to a real world project of their choosing.   Students will have an independent and challenging experience in completing the project from requirement gathering, system analysis and design, to implementation and testing.  The instructor will be functioning as a facilitator and a supervisor in terms of giving you advice during the course of project development for you to stay on track, helping you in utilizing Carroll's computing recourses, as well as ensuring the standards that the quality of your work should meet.  It is, however, your responsibility to meet the technical challenges within the scope of your project.
+
+In this course students will:
+•	Select a project (which should be sufficiently sophisticated at the discretion of the faculty supervisor) 
+•	Research the project for previous solutions and techniques  
+•	Gather a set of system requirements as accurately as possible 
+•	Create a work plan for the project development 
+•	Analyze and design the Solution 
+•	Create testing plans 
+•	Implement the system 
+•	Test the system 
+•	Create documentation and final project binder
+Student learning objectives/outcomes	The capstone course is designed for students to demonstrate the knowledge acquired throughout the curriculum.  Students are expected to show their ability to apply what they have learned in solving real-world problems. Upon successful completion of this course, a student should be able to demonstrate knowledge and understanding of the following:
+  
+1) Capstone projects development must be guided by the basic software engineering principles or IT project management principles as appropriate; 
+2) The project must be sufficiently complex to demonstrate student’s problem-solving skills;
+3) Quality project designs are expected; 
+4) Code quality (in terms of module reusability, code efficiency, and modularity) is expected as judged by the faculty;
+5) It is demonstrated that projects have been tested systematically and comprehensively
+6) It is expected that students communicate on their projects effectively and efficiently with their instructors and peers, both orally and in writing.
+Student Assessment:	Grading: 
+A	AB	B	BC	C	D	F
+[94-100]	[88-94)	[82-88)	[78-82)	[70-78)	[60-70)	[0-60)
+
+The projects will be graded by the Computer Science Faculty and based on the level of quality in the following areas:
+
+1.	Project appropriateness (which includes the level of difficulty)
+2.	Project planning and following through (which includes a document on project scope/specs and development planning, weekly log evaluations, reports, etc)
+3.	Software analysis and design
+4.	Code quality (proper variable names, modularity, proper class hierarchies, etc.), sophistication, and commenting
+5.	Software usability (including user-friendliness, etc)
+6.	Project verification (which includes testing strategies and completeness)
+7.	Effort (which includes difficulty for student, easily improvable, etc)
+8.	Presentation (which includes status report presentations and the final presentation)
+9.	Final Report, user and technical manuals 
+ 
+DELIVERABLES
+The following deliverables are expected in your binder with a table of contents with page numbers:
+
+1.	Your contract/all versions-- i.e., the specification of the project (make a detailed list of the requirements and the constraints of the project)
+2.	Schedule
+3.	Your plan of development
+4.	The Logical Design Documents (story boards, data flow diagrams, ER diagrams, UML diagrams as appropriate)
+5.	Testing strategies and typical testing scenarios
+6.	The well documented code that was developed by yourself (not IDE automatically generated code) including module summaries.
+7.	Comments on the ways the project can be improved.
+8.	Brief yet accurate user and technical manuals.
+9.	Final report discussing your grading of your project based upon the grading rubric criteria.
+Tentative Schedule:	Milestone 	Date	Presentation 
+Ground rules 	01/20/2016	None
+Project Proposal 	01/27/2016	Delivered On-line
+Detailed project requirement specification, and the work plan	02/03/2016	Delivered On-line
+Update on progress, demonstrating what completed and what remains	Weeks of Feb. 24 or March 02	One-on-one, scheduled with instructor (informal)
+Update on progress, demonstrating what completed and what remains	Weeks of April 6 and April 13	One-on-one, scheduled with instructor (informal)
+Final Presentation
+(this is in lieu of a Final Exam)	04/28/2016	Formal with PowerPoint
+
+Attendance Policy:	It is required that you attend the face-to-face individual meetings with the instructor, and the Final Presentation.  
+Assignments:	The due dates for assignments are listed in the schedule above.  Late homework will be accepted for half credit between the due date and the beginning of the next class period.
+Required component:	“Students with disabili??es who may need accommoda??ons or any student considering obtaining documents should make an appointment with the Walter Young Center (262-524-7621) no later than the first week of class.”
+Required component:	“The Carroll University Academic Integrity Policy is located in the student handbook.  Please familiarize yourself with it. Carroll University emphasizes that students have an obligation to conduct their academic work with honesty and integrity. All acts of academic misconduct are serious. If you have any questions about appropriate cita??ons, please ask.”
+Required component:	“The instructor and the University reserve the right to modify, amend or change the syllabus (course requirements, grading policy, etc.) as the curriculum and/or program require(s).”
+
