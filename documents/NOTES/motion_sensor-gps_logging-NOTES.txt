@@ -1,0 +1,21 @@
+[browser dump]
+http://blog.lazerwalker.com/objective-c,/open/source,/moves/2014/05/13/building-a-moves-clone-day-1.html
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=open%20source%20android%20gps%20tracker
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=open+source+android+fitbit+clone
+http://www.open-electronics.org/open-source-wearable-platforms-time-for-your-own-gadgets/
+https://code.google.com/archive/p/open-gpstracker/
+https://code.google.com/archive/p/open-gpstracker/downloads
+https://www.google.com/search?q=open-gpstracker&oq=open-gpstracker&aqs=chrome..69i57j69i65j69i60l2&sourceid=chrome&es_sm=122&ie=UTF-8#q=open+gps+tracker+android+source+code
+https://www.traccar.org/source-code/
+https://github.com/tananaev/traccar
+https://github.com/tananaev/traccar-client-android
+https://github.com/tananaev?tab=repositories
+https://github.com/tananaev/traccar/tree/master/web
+http://www.opengts.org/
+https://github.com/nickfox/GpsTracker
+https://www.websmithing.com/gps-tracker/
+https://www.websmithing.com/2014/01/20/quick-start-guide-for-gpstracker-3/
+https://github.com/search?utf8=%E2%9C%93&q=android+motion+sensor
+https://github.com/arhoyling/Sensor
+https://github.com/shinobicontrols/charts-accelerometer-visualisation-android
+https://github.com/peterpanzsy/MotionSensor
