@@ -30,3 +30,14 @@ https://chrome.google.com/webstore/detail/github-repositories-code/kekdlaiopeadg
 https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc
 https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd
 http://brettterpstra.com/2013/02/13/quick-tip-chrome-extensions-that-make-github-rock/
+
+TimeTracking:
+https://www.rescuetime.com
+
+Data Vizulization:
+https://gyrosco.pe
+https://blog.gyrosco.pe/oh-the-places-you-ll-go-effortlessly-track-your-life-using-moves-gyroscope-6a5de9cd4dc3#.obtcpa7x8
+https://accounts.moves-app.com
+
+
+
