@@ -13,3 +13,20 @@ https://github.com/ssbc
 https://github.com/ssbc/ssbc-sitegen
 https://github.com/nikolaswise/simple-d3/tree/gh-pages
 https://github.com/airportyh/gh-pages
+
+github browser tools:
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=github%20browser%20tools
+https://github.com/zenorocha/browser-diet/wiki/Tools
+https://github.com/zenorocha/browser-diet
+https://github.com/assetgraph/assetgraph-builder
+http://githubengineering.com/browser-monitoring-for-github-com/
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+
+github-repositories chrome extension:
+https://www.google.com/search?q=github-repositories&oq=github-repositories&aqs=chrome..69i57j69i65j69i60l2&sourceid=chrome&es_sm=122&ie=UTF-8#q=github-repositories%20chrome%20extension
+https://github.com/showcases/github-browser-extensions
+https://github.com/buunguyen/octotree
+https://chrome.google.com/webstore/detail/github-repositories-code/kekdlaiopeadgpbjbcedfiladbfehplk?hl=en
+https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc
+https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd
+http://brettterpstra.com/2013/02/13/quick-tip-chrome-extensions-that-make-github-rock/
