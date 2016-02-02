@@ -42,5 +42,6 @@ List of ideas:
 33. I'd like to experiment with the lecture equipment in the class room.
 34. Creativity managment app.
 35. Script built, task-specific, disposible vm web-app.
-
+36. geo, and non-geo(?(Need better words)) survey android app.
+- use qr codes, device's sensors, and camera.
 
