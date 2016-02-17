@@ -1,0 +1,18 @@
+[browser-dump 1/18/16 6am working on hello_docker_reverse_proxy]
+
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=bash%20zip&oq=bash%20zip&aqs=chrome..69i57j0j69i59j0l3.1469j0j8
+http://ss64.com/bash/zip.html
+http://www.linuxnix.com/linuxunix-zip-and-unzip-command-examples/
+http://snipplr.com/view/36580/unix-zip-file-or-directory/
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=linux%20zip%20include%20hidden%20files&oq=bash%20zip%20include%20.&aqs=chrome.1.69i57j0l5.7558j0j8
+http://stackoverflow.com/questions/12493206/zip-including-hidden-files
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=bash%20see%20all%20environment%20variables&oq=bash%20see%20all%20environment%20variables&aqs=chrome..69i57j0l5.3430j0j8
+http://askubuntu.com/questions/275965/how-to-list-all-variables-names-and-their-current-values
+http://stackoverflow.com/questions/13181725/bash-append-file-contents-to-the-bottom-of-existing-file
+http://stackoverflow.com/questions/59838/check-if-a-directory-exists-in-a-shell-script
+
+https://ide.c9.io/koreahaos/hello_docker_reverse_proxy#openfile-README.md
+https://github.com/jwilder/nginx-proxy
+https://github.com/KoreaHaos/carroll_cap_stone/edit/master/NOTES/browser-dumps-NOTES.txt
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=experiments&oq=experiments&aqs=chrome..69i57j0j69i60l2j69i65j0.3168j0j7
+
