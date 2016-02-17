@@ -1,0 +1,9 @@
+Figure out JSON.
+Create boilerplate for directories and files in VM-builder.
+Document nomenclature scheme(s).
+Script up VM builder.
+Figure out part(s) 2 and/or 3 of capstone.
+Figure out how to automate the connecting of all the projects.
+Figure out templeting system for gh-pages.
+Create icon automation for hello_github_api
+Figure out how to deal with status documenting and notifying.
